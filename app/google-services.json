@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287871798852",
+    "project_id": "tugas-akhir-ecaab",
+    "storage_bucket": "tugas-akhir-ecaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287871798852:android:d642e6e3c1f51805c83611",
+        "android_client_info": {
+          "package_name": "com.example.m_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQlZ9JfbF2iSXP5bMLIaoqh2ZUSvlXjBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

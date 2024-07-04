@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">M-Health</string>
+    <string name="app_subname">Prototype</string>
+    <string name="title_home">Home</string>
+    <string name="title_camera">Camera</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_log_menu">Measurement Log</string>
+    <string name="title_user_management">User Management</string>
+    <string name="title_user_menu">User:</string>
+    <string name="title_choose_birth">Choose date of birth</string>
+
+    <string name="bp_sys">Systolic</string>
+    <string name="bp_dia">Diastolic</string>
+    <string name="bp_pul">Pulse</string>
+    <string name="bp_unit">mmHg</string>
+    <string name="bp_pul_unit">BPM</string>
+    <string name="weight_unit">kg</string>
+    <string name="height_unit">cm</string>
+    <string name="age_unit">years</string>
+
+    <string name="placeholder_empty_recycle_view">No record available</string>
+    <string name="placeholder_null">-</string>
+    <string name="placeholder_name">Name</string>
+    <string name="placeholder_id">U00</string>
+    <string name="placeholder_email">Email</string>
+    <string name="placeholder_password">Password</string>
+    <string name="placeholder_confirm_password">Confirm Password</string>
+    <string name="placeholder_weight">Weight</string>
+    <string name="placeholder_height">Height</string>
+    <string name="placeholder_age">Age</string>
+    <string name="placeholder_bmi">BMI</string>
+    <string name="placeholder_birth_date">Birth Date</string>
+    <string name="placeholder_uid">UID</string>
+
+    <string name="btn_label_capture">Capture</string>
+    <string name="btn_label_confirm">Confirm</string>
+    <string name="btn_label_retake">Retake</string>
+    <string name="btn_label_add">Add</string>
+    <string name="btn_label_edit">Edit</string>
+    <string name="btn_label_delete">Delete</string>
+    <string name="btn_label_login">Login</string>
+    <string name="btn_label_register">Register</string>
+    <string name="btn_label_logout">Logout</string>
+    <string name="btn_label_gallery">Gallery</string>
+    <string name="label_user_profile_picture">User profile picture</string>
+    <string name="label_category">Category</string>
+
+    <string name="login_header_text1">Welcome,</string>
+    <string name="login_header_text2">Login to continue</string>
+    <string name="login_footer_text1">Don\'t have an account?</string>
+    <string name="login_footer_text2">Register here</string>
+    <string name="register_header_text1">Welcome,</string>
+    <string name="register_header_text2">Register to continue</string>
+    <string name="register_footer_text1">Already have an account?</string>
+    <string name="register_footer_text2">Login here</string>
+    <string name="home_header_text1">👋 Hello,</string>
+    <string name="home_header_text2">Username</string>
+</resources>

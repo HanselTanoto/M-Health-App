@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  Application Theme  -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <!--  Basic Colors  -->
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#80808080</color>
+    <color name="red">#FFFF0000</color>
+    <color name="green">#FF00ff00</color>
+    <color name="blue">#FF0000FF</color>
+
+    <!--  Colors for BP Record's Category  -->
+    <color name="bp_blue">#4DDBC4</color>      <!--  LOW  -->
+    <color name="bp_green">#8BC94D</color>     <!--  NORMAL  -->
+    <color name="bp_yellow">#FFC44D</color>    <!--  PREHYPERTENSION  -->
+    <color name="bp_orange">#FF884D</color>    <!--  HIGH: STAGE 1 HYPERTENSION -->
+    <color name="bp_red">#EE4D4D</color>       <!--  HIGH: STAGE 2 HYPERTENSION  -->
+    <color name="bp_red_dark">#D64545</color>  <!--  VERY HIGH: SEEK EMERGENCY CARE  -->
+</resources>
